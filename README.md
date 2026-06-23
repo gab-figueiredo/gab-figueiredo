@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu me chamo Gabriel Figueiredo 👋
 
-<!--
-**gab-figueiredo/gab-figueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cientista de Dados | Analista de Dados
 
-Here are some ideas to get you started:
+Engenheiro de Bioprocessos com foco em modelagem matemática e transição consolidada para a área de dados. Especializado no desenvolvimento de soluções analíticas, automação de processos e construção de modelos preditivos para suporte à tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológica
+
+* **Linguagens:** Python, SQL, R
+* **Análise & Visualização:** Power BI, Pandas, NumPy, Matplotlib, Seaborn
+* **Modelagem & Machine Learning:** Scikit-Learn, XGBoost
+* **Ambientes & Ferramentas:** Databricks, Git, GitHub, Jupyter Notebook
+
+---
+
+### 📂 Projetos em Destaque
+
+* 🚀 **[Nome do Projeto 1](link-do-repositorio)**: Breve descrição do problema e resultado obtido (ex: Modelo preditivo para detecção de fraudes financeiras com X% de precisão).
+* 📊 **[Nome do Projeto 2](link-do-repositorio)**: Análise exploratória e pipeline de dados para otimização de processos logísticos.
+
+---
+
+### 📩 Contato
+
+* **LinkedIn:** https://www.linkedin.com/in/gabrielvinifigueiredo/
+* **E-mail:** gabrielfigueiredo158@gmail.com
