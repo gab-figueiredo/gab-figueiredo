@@ -17,8 +17,8 @@ Engenheiro de Bioprocessos com foco em modelagem matemática e transição conso
 
 ### Projetos em Destaque
 
-**[E-commerce Analytics & SQL Architecture](https://github.com/gab-figueiredo/ecommerce-analytics-sql):** Engenharia e análise de dados *end-to-end* baseada em dados reais de API. Inclui pipeline de ingestão automatizado, limpeza e normalização de estruturas JSON complexas via SQL estruturado no DuckDB, e geração de indicadores de negócio (KPIs) com storytelling visual focado em retenção, afinidade de produtos (*Market Basket Analysis*) e logística global.
-**[Nome do Projeto 2](link-do-repositorio)**: Análise exploratória e pipeline de dados para otimização de processos logísticos.
+* **[E-commerce Analytics & SQL Architecture](https://github.com/gab-figueiredo/ecommerce-analytics-sql):** Engenharia e análise de dados *end-to-end* baseada em dados reais de API. Inclui pipeline de ingestão automatizado, limpeza e normalização de estruturas JSON complexas via SQL estruturado no DuckDB, e geração de indicadores de negócio (KPIs) com storytelling visual focado em retenção, afinidade de produtos (*Market Basket Analysis*) e logística global.
+* **[Nome do Projeto 2](link-do-repositorio)**: Análise exploratória e pipeline de dados para otimização de processos logísticos.
 
 ---
 
