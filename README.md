@@ -1,4 +1,4 @@
-# Olá, eu me chamo Gabriel Figueiredo!
+# Gabriel Figueiredo
 
 ### Cientista de Dados | Analista de Dados
 
