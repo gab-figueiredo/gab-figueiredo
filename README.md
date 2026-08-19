@@ -2,7 +2,7 @@
 
 ### Cientista de Dados | Analista de Dados
 
-Engenheiro de Bioprocessos com foco em modelagem matemática e transição consolidada para a área de dados. Especializado no desenvolvimento de soluções analíticas, automação de processos e construção de modelos preditivos para suporte à tomada de decisão.
+Engenheiro Mecânico com transição consolidada para a área de dados. Especializado no desenvolvimento de soluções analíticas, automação de processos e construção de modelos preditivos para suporte à tomada de decisão.
 
 ---
 
